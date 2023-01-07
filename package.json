@@ -25,7 +25,7 @@
     "jest": "^26.1.0",
     "typescript": "^3.8.0",
     "yeoman-assert": "^3.1.0",
-    "yeoman-test": "^1.7.0"
+    "yeoman-test": "^7.1.0"
   },
   "engines": {
     "npm": ">= 4.0.0"
@@ -35,7 +35,7 @@
     "hippo-js": "https://github.com/deislabs/hippo-client-node/releases/download/v0.0.2/hippo-js-0.0.2.tgz",
     "mkdirp": "^1.0.4",
     "shelljs": "^0.8.4",
-    "yeoman-generator": "^2.0.1",
+    "yeoman-generator": "^5.7.0",
     "yosay": "^2.0.1"
   },
   "jest": {
